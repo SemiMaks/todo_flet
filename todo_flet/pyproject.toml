@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "todo-flet"
+version = "0.1.0"
+description = ""
+authors = ["Maksim Semizorov <semimaks@mail.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
